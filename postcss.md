@@ -1,15 +1,16 @@
 # 使用 PostCSS 壓縮 css 檔案
 
-1. npm init -y
+1.
+     > npm init -y
 
 2. [PostCSS](https://www.npmjs.com/package/postcss)
-   npm i postcss
+     > npm i postcss
 
 3. [postcss-cli](https://www.npmjs.com/package/postcss-cli)
-   npm i -D postcss postcss-cli
+     > npm i -D postcss postcss-cli
 
 4. [PostCSS Purgecss](https://www.npmjs.com/package/@fullhuman/postcss-purgecss)
-   npm i -D @fullhuman/postcss-purgecss postcss
+     > npm i -D @fullhuman/postcss-purgecss postcss
 
 5. 建立 postcss.config.js 檔案
 
